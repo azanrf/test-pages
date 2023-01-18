@@ -14,6 +14,8 @@ Updated : 18/1/2023
 - Updated harga lindwurm (mats)
  
 -------------------------------------------
+<img src="https://cdn.discordapp.com/attachments/1018889556784861216/1065283479824248842/Untitled-1.jpg"/>
+
 ### Raid Edition (Farming Weapons Edition)
 ``` 
 1. Farming Weapons (Drop Rate Up Only)
@@ -30,6 +32,12 @@ Farming Weapons (Non Rate Up)
 - Malice Weap 		: 50k / 1 
 - Xeno Weap 		: 20k / 1
 ```
+<p align="center"> 
+  <img src="https://gbf.wiki/images/3/3f/BattleRaid_Mugen_Impossible.png" width="250" height="150"/> </a>
+  <img src="https://gbf.wiki/images/7/74/BattleRaid_Diaspora_Impossible.png" width="250" height="150"/> </a>
+  <img src="https://gbf.wiki/images/3/36/BattleRaid_Siegfried_Impossible.png" width="250" height="150"/> </a>
+  </p>
+
 ### Note: Raid *8 Harus Ready Team Setup.
 ``` 
 2. Hard Raid 8* Farming Weapons Edition (S&K)
@@ -73,16 +81,24 @@ Farming Weapons (Non Rate Up)
 			  1000x / 40k
 ```
 -------------------------------------------
+<p align="center"> 
+  <img src="https://gbf.wiki/images/e/e8/BattleRaid_Lucilius_ImpossibleHard.png" width="250" height="150"/> </a>
+  <img src="https://gbf.wiki/images/1/1d/BattleRaid_Beelzebub_Impossible.png" width="250" height="150"/> </a>
+  <img src="https://gbf.wiki/images/2/28/BattleRaid_Belial_Impossible.png" width="250" height="150"/> </a>
+  </p>
 Raid Edition (Hard Carry)
+
+```
+7. Faa-san	:	1x Run / 30k
+(Lucilius)		6x Run / 100k
  
-7. Faa-san :		1x Run : 30k
-(Lucilius)		6x Run : 100k
+8. Budi 	:	1x Run / 30k
+(Belzeebub)		6x Run / 100k
  
-8. Budi :		1x Run : 30k
-(Belzeebub)		6x Run : 100k
- 
-9. Belial :		1x Run : 50k
-			6x Run : 150k
+9. Belial 	:	1x Run / 50k
+			6x Run / 150k
+```
+
 -------------------------------------------
 Raid Edition (Rise of the Beast)
  

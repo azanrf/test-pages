@@ -18,7 +18,7 @@ Updated : 18/1/2023
 
 ### Raid Edition (Farming Weapons Edition)
 ``` 
-1. Farming Weapons (Drop Rate Up Only)
+Farming Weapons (Drop Rate Up Only)
 - M2 Old Weap		: 20k / 1 (1 mlb = 50k)
 - M2 New Weap		: 35k / 1 (1 mlb = 120k)
 - Ennead Weap		: 30k / 1 (1 mlb = 100k)
@@ -39,15 +39,17 @@ Farming Weapons (Non Rate Up)
   </p>
 
 ### *8 Raid Edition (Farming Weapons)
-### Note: Raid *8 Harus Ready Team Setup.
+##### Note: Raid *8 Harus Ready Team Setup.
 ``` 
-2. Hard Raid 8* Farming Weapons Edition (S&K)
+Hard Raid 8* Farming Weapons Edition (S&K)
 - Schrodringer 		: 60k / 1 (1 mlb = 220k)
 - Extinction Blade 	: 60k / 1 (1 mlb = 220k)
 - Dragonslayer		: 60k / 1 (1 mlb = 220k)
 ```
+
+### Rusted Weapon
 ```
-3. Rusted Weapon Farm (Any)	
+Rusted Weapon Farm (Any)	
 - 10 mlb (40 pcs) 	: 40k
 - 20 mlb (80 pcs) 	: 70k
 +Bonus rusted weapon lainnya, dan lain-lain
@@ -56,7 +58,7 @@ Farming Weapons (Non Rate Up)
 -------------------------------------------
 ### Raid Edition (Anima Farming)
 ```
-4. Anima Farming List
+Anima Farming List
 - Ennead Raid 		: 5x pcs anima / 1k (Rate Up)
 			  2x pcs anima / 1k (Non Rate Up)
 - Xeno Clash Raid 	: 5x pcs anima / 1k
@@ -65,7 +67,7 @@ Farming Weapons (Non Rate Up)
 -------------------------------------------
 ### Raid Edition (Unite and Fight & Dread Barrage)
 ``` 
-5. Unite and Fight Edition
+Unite and Fight Edition
 - Meat Farming		: 1000x Meat/ 50k  
 			  5000x Meat / 200k
 - Daily Honor		: 30m/20k (4-Day Request : 50k All)
@@ -75,7 +77,7 @@ Farming Weapons (Non Rate Up)
 ```
 
 ```
-6. Dread Barrage Edition
+Dread Barrage Edition
 - Honor 		: 100k / 1.4 Juta Honor
 - Battle Badge 		: 100x / 10k
 			  500x / 20k
@@ -91,11 +93,11 @@ Farming Weapons (Non Rate Up)
 ### Raid Edition (Hard Carry)
 
 ```
-7. Faa-san (Lucilius Hard)	: 1x Run / 30k | 6x Run / 100k
+Faa-san (Lucilius Hard)	: 1x Run / 30k | 6x Run / 100k
 
-8. Budi (Beelzebub)		: 1x Run / 30k | 6x Run / 100k
+Budi (Beelzebub)	: 1x Run / 30k | 6x Run / 100k
  
-9. Belial 			: 1x Run / 50k | 6x Run / 150k
+Belial 			: 1x Run / 50k | 6x Run / 150k
 ```
 
 -------------------------------------------
@@ -106,47 +108,55 @@ Farming Weapons (Non Rate Up)
 ### Raid Edition (Rise of the Beast)
 
 ``` 
-10. Four Symbols :	100k = 15k
-			200k = 25k
+Four Symbols	 : 100k = 15k
+		   200k = 25k
  
-11. Shop and Badge :	All Max Badge (+Shenxian) : 120k
-			All Seal : 100k (Zhuq, Xuan, Bai, Qing)
+Shop and Badge 	 : All Max Badge (+Shenxian) 120k
+		   All Seal 100k (Zhuq, Xuan, Bai, Qing)
  
-12. Soulcore Edition :	10k / Soulcore (Any)
-			90k / 10 Soulcore (Any)
-			200k / 25 Soulcore (Any)
+Soulcore Edition : 10k / Soulcore (Any)
+		   90k / 10 Soulcore (Any)
+		   200k / 25 Soulcore (Any)
 ```
 			
 -------------------------------------------
-Raid Edition (Farming Materials)
+### Raid Edition (Farming Materials)
+
+``` 
+Lindwurm 	: 50x = 20k
+ -Item		: True Dragon Golden's Scale
  
-13. Lindwurm : 		50x = 20k
-Item : True Dragon Golden's Scale
+Lucilius	: 50x = 20k
+ -Item : Dark Residue +Bonus Shadow Substance kalau dapat
  
-14. Lucilius :		50x = 20k
-Item : Dark Residue
-+Bonus Shadow Substance kalau dapat
+Damascus Grain  : 1x / 5k
+		  30x / 120k
  
-15. Damascus Grain : 	1x / 5k
-			30x / 120k
- 
-16. Eternity Sand : 	1x / 40k 
+Eternity Sand   : 1x / 40k 
+```
+
 -------------------------------------------
-Raid Edition & Special Quest [Event Story & Event Rerun Edition]
+### Raid Edition & Special Quest (Event Story & Event Rerun Edition)
+
+```
+Event Story [Box]: #4 @10k
+		  #20 @50k
  
-17. Event Story [Box]: 	#4 : 10k
-			#20 : 50k
- 
-18. Rerun Events :	All loot : 50k
+18. Rerun Events : All loot @50k
+```
+
 -------------------------------------------
-Raid (Solo Edition & First-time clear Quest)
- 
-19. Joki Surpass Faa-san (S&K) : 50k 
+### Raid (Solo Edition & First-time clear Quest)
+
+``` 
+Joki Surpass Faa-san (S&K) 		: 50k 
 (Harus ULB Opus / Dragonic, Grid T1/M2-End+)
  
-20. Free Quest (First time Clear)
-- Fallen Paradise (Bubz) : 10k
-- The Fallen Angel of Cunning (Belial) : 10k
+Free Quest (First time Clear)
+ - Fallen Paradise (Beelzebub)  	: 10k
+ - The Fallen Angel of Cunning (Belial) : 10k
+```
+
 -------------------------------------------
 <p align="center"> 
   <img src="https://gbf.wiki/images/4/48/Update_skyscope1.png"/> </a>
@@ -155,8 +165,8 @@ Raid (Solo Edition & First-time clear Quest)
 ### Skyscope Edition
  
 ``` 
-21. Skyscope Mission Edition
-    - Weekly Mission : 25k (Bisa Order Tiap Minggu)
+Skyscope Mission Edition
+ - Weekly Mission : 25k (Bisa Order Tiap Minggu)
 ```
 
 -------------------------------------------

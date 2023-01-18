@@ -1,12 +1,12 @@
 ![alt text](https://github.com/azanrf/test-pages/blob/main/image.png?raw=true)
 
-# Vaseraga Boosting Services
-
-## Price List Joki untuk Vaseraga Boosting Services!
+# Vaseraga Boosting Service
+### Price List Joki untuk Vaseraga Boosting Service
 Edisi nge-joki santuy yang penting kelar~~
 
-1000% Safe, No Third Program/Bot, USING MY OWN HAND.
-Ctrl+F buat nyari joki yang spesifik ^ ^/
+### 1000% Safe, No Third Program/Bot, USING MY OWN HAND.
+
+*Ctrl+F buat nyari joki yang spesifik ^ ^/*
 
 Updated : 18/1/2023
 - Updated bagian Farming Weapons (Xeno Clash)

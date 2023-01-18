@@ -1,66 +1,75 @@
 # Vaseraga Boosting Services
 
---- Price List Joki untuk Vaseraga Boosting Service! ^ ^ ---
+## Price List Joki untuk Vaseraga Boosting Services!
 Edisi nge-joki santuy yang penting kelar~~
+
 1000% Safe, No Third Program/Bot, USING MY OWN HAND.
 Ctrl+F buat nyari joki yang spesifik ^ ^/
- 
+
 Updated : 18/1/2023
 - Updated bagian Farming Weapons (Xeno Clash)
 - Updated bagian Anima Farming (Xeno Clash)
 - Updated harga lindwurm (mats)
  
 -------------------------------------------
-Raid Edition (Farming Weapons Edition)
- 
+### Raid Edition (Farming Weapons Edition)
+``` 
 1. Farming Weapons (Drop Rate Up Only)
-- M2 Old Weap : 	20k / 1 (1 mlb = 50k)
-- M2 New Weap : 	35k / 1 (1 mlb = 120k)
-- Ennead Weap : 	30k / 1 (1 mlb = 100k)
-- Ancestral Weap : 	40k / 1 (1 mlb = 120k)
+- M2 Old Weap		: 20k / 1 (1 mlb = 50k)
+- M2 New Weap		: 35k / 1 (1 mlb = 120k)
+- Ennead Weap		: 30k / 1 (1 mlb = 100k)
+- Ancestral Weap	: 40k / 1 (1 mlb = 120k)
  
 Farming Weapons (Non Rate Up)
-- M2 Old Weap : 	20k / 1 (1 mlb = 60k) 
-- M2 New Weap : 	40k / 1 (1 mlb = 150k)
-- Ennead Weap : 	35k / 1 (1 mlb = 120k)
-- Ancestral Weap : 	50k / 1 (1 mlb = 180k)
-- Malice Weap : 	50k / 1 
-- Xeno Weap : 		20k / 1
- 
+- M2 Old Weap 		: 20k / 1 (1 mlb = 60k) 
+- M2 New Weap 		: 40k / 1 (1 mlb = 150k)
+- Ennead Weap 		: 35k / 1 (1 mlb = 120k)
+- Ancestral Weap 	: 50k / 1 (1 mlb = 180k)
+- Malice Weap 		: 50k / 1 
+- Xeno Weap 		: 20k / 1
+```
+### Note: Raid *8 Harus Ready Team Setup.
+``` 
 2. Hard Raid 8* Farming Weapons Edition (S&K)
-- Schrodringer :	60k / 1	(1 mlb = 220k)
-- Extinction Blade :	60k / 1 (1 mlb = 220k)
-- Dragonslayer : 	60k / 1 (1 mlb = 220k)
- 
-Note:  Harus Ready team setup untuk farming raidnya.
- 
+- Schrodringer 		: 60k / 1 (1 mlb = 220k)
+- Extinction Blade 	: 60k / 1 (1 mlb = 220k)
+- Dragonslayer		: 60k / 1 (1 mlb = 220k)
+```
+```
 3. Rusted Weapon Farm (Any)	
-- 10 mlb (40 pcs) : 40k
-- 20 mlb (80 pcs) : 70k
+- 10 mlb (40 pcs) 	: 40k
+- 20 mlb (80 pcs) 	: 70k
 +Bonus rusted weapon lainnya, dan lain-lain
+```
+
 -------------------------------------------
-Raid Edition (Anima Farming)
- 
+### Raid Edition (Anima Farming)
+```
 4. Anima Farming List
-- Ennead Raid : 	5x pcs anima / 1k (Rate Up)
-			2x pcs anima / 1k (Non Rate Up)
-- Xeno Clash Raid : 5x pcs anima / 1k
+- Ennead Raid 		: 5x pcs anima / 1k (Rate Up)
+			  2x pcs anima / 1k (Non Rate Up)
+- Xeno Clash Raid 	: 5x pcs anima / 1k
+```
+
 -------------------------------------------
-Raid Edition (Unite and Fight & Dread Barrage)
- 
+### Raid Edition (Unite and Fight & Dread Barrage)
+``` 
 5. Unite and Fight Edition
-- Meat Farming :	1000x Meat/ 50k  
-			5000x Meat / 200k
-- Daily Honor : 	30m/20k (4-Day Request : 50k All)
-			100m/75k (4-Day Request : 200k All)
-- Boxing :		Boxing #44 : 200k
-- Individual Rank :	T80k / 450k (S&K)
- 
+- Meat Farming		: 1000x Meat/ 50k  
+			  5000x Meat / 200k
+- Daily Honor		: 30m/20k (4-Day Request : 50k All)
+			  100m/75k (4-Day Request : 200k All)
+- Boxing		: Boxing #44 : 200k
+- Individual Rank 	: T80k / 450k (S&K)
+```
+
+```
 6. Dread Barrage Edition
-- Honor :		1.4 Juta : 100k
-- Battle Badge : 	100x / 10k
-			500x / 20k
-			1000x / 40k
+- Honor 		: 100k / 1.4 Juta Honor
+- Battle Badge 		: 100x / 10k
+			  500x / 20k
+			  1000x / 40k
+```
 -------------------------------------------
 Raid Edition (Hard Carry)
  

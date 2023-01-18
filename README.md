@@ -38,6 +38,7 @@ Farming Weapons (Non Rate Up)
   <img src="https://gbf.wiki/images/3/36/BattleRaid_Siegfried_Impossible.png" width="250" height="150"/> </a>
   </p>
 
+### *8 Raid Edition (Farming Weapons)
 ### Note: Raid *8 Harus Ready Team Setup.
 ``` 
 2. Hard Raid 8* Farming Weapons Edition (S&K)
@@ -86,22 +87,25 @@ Farming Weapons (Non Rate Up)
   <img src="https://gbf.wiki/images/1/1d/BattleRaid_Beelzebub_Impossible.png" width="250" height="150"/> </a>
   <img src="https://gbf.wiki/images/2/28/BattleRaid_Belial_Impossible.png" width="250" height="150"/> </a>
   </p>
-Raid Edition (Hard Carry)
+  
+### Raid Edition (Hard Carry)
 
 ```
-7. Faa-san	:	1x Run / 30k
-(Lucilius)		6x Run / 100k
+7. Faa-san (Lucilius Hard)	: 1x Run / 30k | 6x Run / 100k
+
+8. Budi (Beelzebub)		: 1x Run / 30k | 6x Run / 100k
  
-8. Budi 	:	1x Run / 30k
-(Belzeebub)		6x Run / 100k
- 
-9. Belial 	:	1x Run / 50k
-			6x Run / 150k
+9. Belial 			: 1x Run / 50k | 6x Run / 150k
 ```
 
 -------------------------------------------
-Raid Edition (Rise of the Beast)
- 
+<p align="center"> 
+  <img src="https://gbf.wiki/images/d/dd/Riseofthebeasts_top.png"/> </a>
+  </p>
+
+### Raid Edition (Rise of the Beast)
+
+``` 
 10. Four Symbols :	100k = 15k
 			200k = 25k
  
@@ -111,6 +115,8 @@ Raid Edition (Rise of the Beast)
 12. Soulcore Edition :	10k / Soulcore (Any)
 			90k / 10 Soulcore (Any)
 			200k / 25 Soulcore (Any)
+```
+			
 -------------------------------------------
 Raid Edition (Farming Materials)
  
@@ -142,11 +148,17 @@ Raid (Solo Edition & First-time clear Quest)
 - Fallen Paradise (Bubz) : 10k
 - The Fallen Angel of Cunning (Belial) : 10k
 -------------------------------------------
-Skyscope Edition
+<p align="center"> 
+  <img src="https://gbf.wiki/images/4/48/Update_skyscope1.png"/> </a>
+  </p>
+  
+### Skyscope Edition
  
+``` 
 21. Skyscope Mission Edition
-- Weekly Mission : 	25k
-(Bisa Order Tiap Minggu)
+    - Weekly Mission : 25k (Bisa Order Tiap Minggu)
+```
+
 -------------------------------------------
 Co-op Edition
  
@@ -171,10 +183,18 @@ Non-Raid Edition (Lvling Edition)
 - Any Whorl 		1000x / 45k
 - Flawed Prism 		1000x / 30k
 -------------------------------------------
-28. Proving Ground Edition (PG)
-- Max 200 Badge + 15.000.000 (Honor) = 60k
-- 150 / 15x Maul = 20k (Full 1 Awakening)
-- 1 Copy Weapon (spesifik) = 20k, MLB (4 Copy) = 40k
+<p align="center"> 
+  <img src="https://gbf.wiki/images/e/ec/Proving_Grounds_top.png"/> </a>
+  </p>
+
+### Proving Ground Edition (PG)
+
+```
+- Max 200 Badge + 15.000.000 (Honor)	: 60k
+- 150 / 15x Maul 			: 20k (Full 1 Awakening)
+- 1 Copy Weapon (spesifik)		: 20k, MLB (4 Copy) = 40k
+```
+
 -------------------------------------------
 29. Tower of Babyl Edition (S&K)
 - 10k / Floor (Biasa)

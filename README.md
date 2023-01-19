@@ -65,6 +65,11 @@ Anima Farming List
 ```
 
 -------------------------------------------
+<p align="center"> 
+  <img src="https://gbf.wiki/images/5/52/Event_Unite_and_Fight_header.jpg" width="450" height="200"/> </a>
+  <img src="https://gbf.wiki/images/4/44/Dread_Barrage_top.jpg" width="450" height="200"/> </a>
+  </p>
+  
 ### Raid Edition (Unite and Fight & Dread Barrage)
 ``` 
 Unite and Fight Edition
@@ -195,11 +200,11 @@ Mastery Level
 ### Non-Raid Edition (Farming Material Edition)
 
 ```
-- Any Scale 	(500x = 25k)
-- Any Shards 	(10x / 15k )
-		(200x = 200k)
-- Any Whorl 	(1000x / 45k)
-- Flawed Prism 	(1000x / 30k)
+- Any Scale 	: 500x / 25k
+- Any Shards 	: 10x / 15k
+		  200x / 200k
+- Any Whorl 	: 1000x / 45k
+- Flawed Prism 	: 1000x / 30k
 ```
 
 -------------------------------------------
@@ -212,7 +217,7 @@ Mastery Level
 ```
 - Max 200 Badge + 15.000.000 (Honor) : 60k
 - 150 / 15x Maul 		     : 20k (Full 1 Awakening)
-- 1 Copy Weapon (spesifik)	     : 20k, MLB (4 Copy) = 40k
+- 1 Copy Weapon (spesifik)	     : 20k (MLB, 4 Copy : 40k)
 ```
 
 -------------------------------------------
@@ -234,8 +239,8 @@ Mastery Level
   
 ### Arcarum Series
 ```
-- All Loot = 80k
-- All Tale Mission + Daily = 50k (S&K)
+- All Loot 		   : 80k
+- All Tale Mission + Daily : 50k (S&K)
 ```
 
 -------------------------------------------
@@ -266,12 +271,12 @@ S&K Mats untuk 2-2nya bisa dibicarakan untuk ditentukan harga fixnya berapa
 -------------------------------------------
 Apakah ada yang tidak pada list?, Tanyakan ke saya langsung di 
 
-Facebook       : https://www.facebook.com/willy.agungputra
+- Facebook       : https://www.facebook.com/willy.agungputra
 
-Discord        : Willizer#5736
+- Discord        : Willizer#5736
  
-Testimoni      : https://www.facebook.com/media/set/?set=a.2049993601867484&type=3
+- Testimoni      : https://www.facebook.com/media/set/?set=a.2049993601867484&type=3
  
-Pembayaran via : BCA / DANA
+- Pembayaran via : BCA / DANA
 
-# Terima Kasih sudah berkunjung dan melihat-lihat \^ ^/
+### Terima Kasih sudah berkunjung dan melihat-lihat \^ ^/
